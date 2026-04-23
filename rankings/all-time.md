@@ -1,4 +1,4 @@
-Place | Country | Nickname | Points | 1st place | 2nd place | 3rd place | Years above average
+Place | Country | Nickname | Score | 1st place | 2nd place | 3rd place | Years above average
 :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---:
 1 | 🇸🇪 | f0rest | 773.25 | 4 | 1 | 3 | 18
 2 | 🇸🇪 | GeT_RiGhT | 637.8 | 3 | 2 | 1 | 12
