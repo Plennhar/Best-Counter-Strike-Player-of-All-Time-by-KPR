@@ -1,3 +1,6 @@
+# 2026.04.30
+* Removed year 2004 from the rankings due to its dataset being too limited.
+
 # 2026.04.21
 * Replaced the z-score-based yearly scoring model with a bounded within-year Performance Score model, where 0 = yearly average and 100 = yearly best.
 * Removed the Blom-based field-size correction and the broader standardization framework tied to yearly player-pool size.
