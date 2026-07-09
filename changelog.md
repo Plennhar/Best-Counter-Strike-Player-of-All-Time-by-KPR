@@ -1,3 +1,8 @@
+# 2026.07.09
+* Added year 2004 back in.
+* Reduced qualification criteria to no longer require the tournaments being played in to be of any combined prize pool.
+* Changed the calculation for Performance Score.  It now simply looks at the difference between a player's Adjusted Weighted KPR in any given year, and the mean Adjusted Weighted KPR of that year.
+
 # 2026.04.30
 * Removed year 2004 from the rankings due to its dataset being too limited.
 
